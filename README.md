@@ -1,3 +1,3 @@
 ![TheBananaPancake logo](/logo.png)
 
-## Working to improve open-source software
+# Improving open-source software for everyone
