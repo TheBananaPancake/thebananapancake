@@ -1,6 +1,6 @@
+![TheBananaPancake logo](/logo.png)
+
 <div align="center">
-  ![TheBananaPancake logo](/logo.png)
-  
   # Improving software for everyone
   
   <a href="https://bsky.app/profile/thebananapancake1.bsky.social" target="_blank">
