@@ -5,8 +5,8 @@
   <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
 </a>
 <a href="https://tangled.org/thebananapancake.tngl.sh" target="_blank">
-  <img alt="Tangled" src="https://img.shields.io/badge/Bluesky-%FFFFFFFF.svg?&style=for-the-badge&logo=bluesky&logoColor=black" />
+  <img alt="Tangled" src="https://img.shields.io/badge/Tangled-%FFFFFF.svg?&style=for-the-badge&logo=bluesky&logoColor=black" />
 </a>
 <a href="https://tangled.org/thebananapancake.tngl.sh" target="_blank">
-  <img alt="Codeberg" src="https://img.shields.io/badge/Bluesky-%0D1B2AFF.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
+  <img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-%0D1B2A.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
 </a>
