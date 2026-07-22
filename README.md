@@ -1,12 +1,15 @@
 ![TheBananaPancake logo](/logo.png)
 
 # Improving software for everyone
+
 <a href="https://bsky.app/profile/thebananapancake1.bsky.social" target="_blank">
-  <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
+  <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%231185FE.svg?style=for-the-badge&logo=bluesky&logoColor=white" />
 </a>
+
 <a href="https://tangled.org/thebananapancake.tngl.sh" target="_blank">
-  <img alt="Tangled" src="https://img.shields.io/badge/Tangled-%FFFFFF.svg?&style=for-the-badge&logo=bluesky&logoColor=black" />
+  <img alt="Tangled" src="https://img.shields.io/badge/Tangled-%23FFFFFF.svg?style=for-the-badge&logo=tangled&logoColor=black" />
 </a>
-<a href="https://tangled.org/thebananapancake.tngl.sh" target="_blank">
-  <img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-%0D1B2A.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
+
+<a href="https://codeberg.org/thebananapancake" target="_blank">
+  <img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-%23218BFF.svg?style=for-the-badge&logo=codeberg&logoColor=white" />
 </a>
