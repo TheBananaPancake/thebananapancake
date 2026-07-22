@@ -2,7 +2,7 @@
 
   ![TheBananaPancake logo](/logo.png)
 
-  # Improving software for everyone
+  ### Hi!
   
   <a href="https://bsky.app/profile/thebananapancake1.bsky.social" target="_blank">
     <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%231185FE.svg?style=for-the-badge&logo=bluesky&logoColor=white" />
