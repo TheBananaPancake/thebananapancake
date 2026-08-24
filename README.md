@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![TheBananaPancake logo](/logo.png)
+  ![TheBananaPancake logo](/pancake-logo.png)
 
   ## Hi! I like to make free stuff for people to use...
   
