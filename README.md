@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://codeberg.org/TheBananaPancake" target="_blank">
-    <img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-%23218BFF.svg?style=for-the-badge&logo=codeberg&logoColor=white" />
+    <img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-%230B1F3A.svg?style=for-the-badge&logo=codeberg&logoColor=white" />
   </a>
 
   <a href="https://bsky.app/profile/thebananapancake1.bsky.social" target="_blank">
