@@ -8,6 +8,10 @@
     <img alt="Tangled" src="https://img.shields.io/badge/Tangled-%23FFFFFF.svg?style=for-the-badge&logo=tangled&logoColor=black" />
   </a>
 
+  <a href="https://codeberg.org/TheBananaPancake" target="_blank">
+    <img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-%23218BFF.svg?style=for-the-badge&logo=codeberg&logoColor=white" />
+  </a>
+
   <a href="https://bsky.app/profile/thebananapancake1.bsky.social" target="_blank">
     <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%231185FE.svg?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
